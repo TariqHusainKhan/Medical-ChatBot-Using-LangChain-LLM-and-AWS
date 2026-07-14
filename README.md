@@ -210,3 +210,6 @@ Push to `main` and the workflow builds, pushes, and deploys.
 ## Disclaimer
 
 This is a reference and study tool built to demonstrate a RAG pipeline. It is not a diagnostic instrument and is not a substitute for a qualified clinician.
+
+# save the URI:
+597755154873.dkr.ecr.us-east-1.amazonaws.com/medicalbot
