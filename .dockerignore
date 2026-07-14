@@ -1,0 +1,9 @@
+data/
+research/
+.git/
+.env
+*.pem
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+venv/
